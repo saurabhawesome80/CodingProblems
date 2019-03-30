@@ -1,3 +1,5 @@
 {
-    "1" : "Pair with sum k" 
+    "1" : "Pair with sum k",
+    "2" : "Given an array,find the maximum j – i such that arr[j] > arr[i]"
+
 }
