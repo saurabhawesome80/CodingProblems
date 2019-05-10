@@ -1,5 +1,7 @@
 {
     "1" : "Pair with sum k",
-    "2" : "Given an array,find the maximum j – i such that arr[j] > arr[i]"
-
+    "2" : "Given an array,find the maximum j – i such that arr[j] > arr[i]",
+    "3" : "Maximum sum subarray",
+    "4" : "Maximum Sum increasing subsequence",
+    "5" : "kth smallest element"
 }
